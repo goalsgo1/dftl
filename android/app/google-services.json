@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939991255385",
+    "project_id": "dftl-6c1e7",
+    "storage_bucket": "dftl-6c1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939991255385:android:6d4d49cc7f161a93c82448",
+        "android_client_info": {
+          "package_name": "com.example.dftl_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4GzpghU1s0Hy9p3r2C8MJyuIC7ezIQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
